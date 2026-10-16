@@ -1,0 +1,46 @@
+# Python 虚拟环境（必须排除，这是 3.6G 的元凶）
+.venv/
+venv/
+env/
+ENV/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# 大文件 / 构建产物
+*.tar
+*.tar.gz
+*.zip
+*.bin
+*.pkl
+*.h5
+*.pt
+*.onnx
+*.model
+*.ckpt
+*.safetensors
+*.so
+*.dll
+*.dylib
+
+# 数据 / 日志
+data/
+datasets/
+logs/
+*.log
+
+# IDE / 系统
+.idea/
+.vscode/
+.DS_Store
+
+# 敏感信息
+.env
+.env.*
+!.env.example

@@ -1,0 +1,17 @@
+guides:
+  - id: cn_t2dm_2024
+    pdf: data/raw/guidelines/cn_t2dm_2024.pdf
+    guide_name: 中国糖尿病防治指南(2024版)
+    year: 2024
+    language: zh
+    # 用哪套正则抽推荐编号
+    rec_id_pattern: cn_numbered
+    evidence_pattern: cn_level
+
+  - id: ada_2024
+    pdf: data/raw/guidelines/ada_2024.pdf
+    guide_name: ADA Standards of Care
+    year: 2024
+    language: en
+    rec_id_pattern: ada_lettered
+    evidence_pattern: ada_grade

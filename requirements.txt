@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+langchain
+langchain-community
+langgraph
+chromadb
+sentence-transformers
+rank-bm25
+pymupdf
+ragas
+pytest
+httpx
