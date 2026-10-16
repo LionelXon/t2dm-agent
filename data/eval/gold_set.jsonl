@@ -1,0 +1,16 @@
+{"query": "空腹血糖或 HbA1c 达到什么水平建议做 OGTT", "gold_chunk_ids": ["gdc-002", "gdc-016"], "gold_rec_ids": ["gdc-002"]}
+{"query": "糖尿病高危人群怎么筛查", "gold_chunk_ids": ["gdc-014"], "gold_rec_ids": ["gdc-014"]}
+{"query": "糖尿病患者初诊需要评估什么", "gold_chunk_ids": ["gdc-022"], "gold_rec_ids": ["gdc-022"]}
+{"query": "糖尿病自我管理教育是什么", "gold_chunk_ids": ["gdc-030"], "gold_rec_ids": ["gdc-030"]}
+{"query": "2型糖尿病综合控制包括哪些方面", "gold_chunk_ids": ["gdc-027", "gdc-036"], "gold_rec_ids": ["gdc-027"]}
+{"query": "糖尿病医学营养治疗原则", "gold_chunk_ids": ["gdc-048", "gdc-049"], "gold_rec_ids": ["gdc-048"]}
+{"query": "SGLT2i 有什么心血管获益", "gold_chunk_ids": ["gdc-032", "gdc-069"], "gold_rec_ids": ["gdc-032"]}
+{"query": "1型糖尿病胰岛素治疗方案", "gold_chunk_ids": ["gdc-091"], "gold_rec_ids": ["gdc-091"]}
+{"query": "非妊娠成年 T2DM 患者的 HbA1c 目标是多少", "gold_chunk_ids": ["gdc-028", "gdc-038"], "gold_rec_ids": ["gdc-028"]}
+{"query": "二甲双胍在什么肾功能水平下可以安全使用", "gold_chunk_ids": ["gdc-076"], "gold_rec_ids": ["gdc-076"]}
+{"query": "糖尿病合并高血压的血压控制目标", "gold_chunk_ids": ["gdc-139"], "gold_rec_ids": ["gdc-139"]}
+{"query": "糖尿病合并高血压的食盐摄入限制", "gold_chunk_ids": ["gdc-062"], "gold_rec_ids": ["gdc-062"]}
+{"query": "糖尿病患者碳水化合物供能比推荐范围", "gold_chunk_ids": ["gdc-056", "cgmnd-006"], "gold_rec_ids": ["gdc-056"]}
+{"query": "糖尿病患者每周应该运动多少分钟", "gold_chunk_ids": ["gdc-064"], "gold_rec_ids": ["gdc-064"]}
+{"query": "老年糖尿病患者初诊应该做哪些评估", "gold_chunk_ids": ["gdc-191", "gdc-194"], "gold_rec_ids": ["gdc-191"]}
+{"query": "糖尿病前期个体应该怎么干预", "gold_chunk_ids": ["gdc-003", "gdc-012"], "gold_rec_ids": ["gdc-003"]}
